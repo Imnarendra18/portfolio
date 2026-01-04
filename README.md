@@ -1,43 +1,46 @@
-<<<<<<< HEAD
-# Portfolio
+# 🚀 Portfolio
 
-A modern and responsive developer portfolio built with **Next.js, TailwindCSS, and TypeScript**.  
-Showcases projects, skills, and experiences in a clean UI with fast performance.
+A modern, responsive **personal developer portfolio** built with **Next.js, Tailwind CSS, and TypeScript**.  
+It showcases my **projects, skills, GitHub work, and contact information** with a clean UI and fast performance.
 
-## Screenshot
+---
 
-![Portfolio Demo](./public/showup.png)
+## 📸 Screenshot
+
+![Portfolio Preview](./public/showup.png)
 
 ---
 
 ## ✨ Features
 
-- ⚡ **Next.js 14 (App Router)** – Server & Client components
-- 🎨 **TailwindCSS** – Custom theme & utility-first styling
-- 🔤 **Google Fonts Integration** (Outfit & Ovo)
-- 📱 **Responsive Design** – Mobile-first and fully adaptive
-- ⚙️ **TypeScript** – Type-safe development
-- 🖼️ **SVG & Image Optimization**
+- ⚡ **Next.js (App Router)** – High performance & SEO-friendly
+- 🎨 **Tailwind CSS** – Modern, utility-first styling
+- 📱 **Fully Responsive** – Works on mobile, tablet & desktop
+- 🔤 **Google Fonts** – Clean & professional typography
+- 🧩 **Reusable Components** – Scalable code structure
+- 🔗 **Project Showcase** – GitHub & Live Demo links
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Next.js – React Framework
-- TailwindCSS – Styling
-- TypeScript – Static Typing
-- SVGR – SVG as React components
+- **Next.js** – React Framework  
+- **Tailwind CSS** – Styling  
+- **TypeScript** – Type-safe development  
+- **React** – UI Components  
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/rajscriptsGH/Portfolio.git
-cd Portfolio
-```
+git clone https://github.com/Imnarendra18/portfolio.git
+cd portfolio
+
+
+
 
 Install dependencies
 
@@ -59,51 +62,51 @@ yarn dev
 pnpm dev
 ```
 
-Open <http://localhost:3000>
+Open (http://localhost:3000/)
  in your browser to see the result.
 
 ### 📂 Project Structure
 
-```md
-Portfolio/
+portfolio/
 ┣ src/
  ┣ app/
  ┣ components/       # Reusable UI components
  ┣ lib/
- ┣ next.config.ts    # Next.js configuration
- ┗ tsconfig.json     # TypeScript configuration
-┣ public/           # Static assets (images, icons, etc.)
-```
+ ┣ styles/
+ ┗ tsconfig.json
+┣ public/            # Images & static assets
 
-### Customization
 
-- Update your info in app/page.tsx and components
+🎨 Customization
 
-- Add new projects in components/FeaturedProjects.tsx
+Update personal info → app/page.tsx
 
-- Replace fonts in app/layout.tsx
+Edit sections → components/
 
-- Change theme colors in globals.css
+Add projects → components/FeaturedProjects.tsx
 
-## 📦 Deployment
+Change theme → globals.css
 
-This portfolio can be easily deployed on:
+📦 Deployment
 
-Vercel
- (Recommended – seamless Next.js integration)
+Easily deploy using Vercel (Recommended for Next.js):
+
+👉 https://vercel.com
 
 ## 🤝 Contributing
 
 Pull requests are welcome! If you’d like to improve the portfolio or add features, feel free to fork this repo and open a PR.
 
-### License
+📜 License
 
 This project is licensed under the MIT License.
 You are free to use and modify it for your own portfolio.
 
-### 👨‍💻 Author
+👨‍💻 Author
 
-Built with ❤️ by Razz
+Narendra Kumar Yadav
+Built with ❤️ using Next.js & Tailwind CSS
+
 
 ---
 =======
