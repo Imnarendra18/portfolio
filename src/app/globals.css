@@ -1,0 +1,39 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: all;
+}
+
+:root[data-theme="light"] {
+  --primary: #5a67d8;
+  --secondary: #8b5cf6;
+  --accent: #1a202c;
+  --base-100: #ffffff;
+
+  --bg: var(--base-100);
+  --text: #1a202c; /* dark text for light mode */
+}
+
+:root[data-theme="dark"] {
+  --primary: #8b5cf6;
+  --secondary: #ec4899;
+  --accent: #1a202c;
+  --base-100: #1f2937;
+
+  --bg: var(--base-100);
+  --text: #f9fafb; /* light text for dark mode */
+}
+
+body {
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-serif), Georgia, serif;
+}
