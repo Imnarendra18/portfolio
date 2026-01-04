@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio
 
 A modern and responsive developer portfolio built with **Next.js, TailwindCSS, and TypeScript**.  
@@ -105,3 +106,7 @@ You are free to use and modify it for your own portfolio.
 Built with ❤️ by Razz
 
 ---
+=======
+# portfolio
+A modern, responsive personal portfolio website built using Next.js and Tailwind CSS. It highlights my featured projects, technical skills, GitHub work, and contact information.  ✨ Features: - Modern UI with animations - Fully responsive design - Project showcase with GitHub &amp; Live Demo links - Clean and scalable code structure  
+>>>>>>> 54590f36ae0ee98232e11daaaccc79982dfb37de
