@@ -7,7 +7,9 @@ It showcases my **projects, skills, GitHub work, and contact information** with 
 
 ## 📸 Screenshot
 
-![Portfolio Preview](./public/narendra.png)
+
+<img width="967" height="564" alt="image" src="https://github.com/user-attachments/assets/c162d493-bd42-4a57-bc4e-5fe078ad1de9" />
+
 
 ---
 
