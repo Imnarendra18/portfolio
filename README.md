@@ -7,7 +7,7 @@ It showcases my **projects, skills, GitHub work, and contact information** with 
 
 ## 📸 Screenshot
 
-![Portfolio Preview](./public/showup.png)
+![Portfolio Preview](./public/narendra.png)
 
 ---
 
